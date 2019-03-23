@@ -31,4 +31,4 @@ To list packages in a deactived environment:
 
 Install nb_conda and conda_kernels in conda environment(activate environment first)
 
-`conda install nb_conda nb_conda_kernels
+`conda install nb_conda nb_conda_kernels`
