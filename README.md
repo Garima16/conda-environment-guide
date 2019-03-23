@@ -25,6 +25,10 @@ To list packages in active environment:
 
 To list packages in a deactived environment:
 
-`conda list -n opencvenv`
+`conda list -n opencvenv`u
 
+## Display conda virtual environments in Jupyter notebook
 
+Install nb_conda and conda_kernels in conda environment(activate environment first)
+
+`conda install nb_conda nb_conda_kernels
