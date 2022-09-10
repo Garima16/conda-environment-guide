@@ -30,6 +30,7 @@ To list packages in a deactived environment:
 ## Installing Jupyter Notebook in a Conda environment
 
 `conda install -c conda-forge notebook`
+
 `conda install -c conda-forge nb_conda_kernels`
 
 ## Display conda virtual environments in Jupyter notebook
